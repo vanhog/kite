@@ -11,6 +11,7 @@ from kite.scene import Scene, SceneConfig
 
 log = logging.getLogger("bbd2kite")
 
+# test 
 d2r = np.pi / 180.0
 r2d = 180.0 / np.pi
 
